@@ -4,4 +4,4 @@ Ravendown is an isometric/top-down shoot-em-up game where you fight demons in a 
 Here you can find everything I worked on during this project, this code does not work as it's seperate from the rest of the code.
 This i mainly for viewing and overseeing old project code.
 
-The game itself can be downloaded over at here: https://nizhon.itch.io/ravendown
+The game itself can be downloaded over here: https://nizhon.itch.io/ravendown
